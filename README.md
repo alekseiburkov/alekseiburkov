@@ -1,5 +1,5 @@
 Hi, I'm **Aleksei Burkov** :raising_hand:  
-An aspiring data scientist with passion for CV and NLP implementations.
+An aspiring data scientist with passion for CV and NLP.
 
 **Data Science:**  
 Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
